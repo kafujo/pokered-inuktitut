@@ -1,3 +1,21 @@
+To do:
+- pink palette, rainbow palette
+- giovanni song
+- fix all item palette colors
+- fix all sprite graphics
+- pokedex index page & weight
+- test yen game corner
+- restore gary text
+- have girl rival replace oak battle?
+- restore silph events?
+- ligature problem
+
+
+
+
+
+
+
 # Pokémon Red and Blue [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Red and Blue.

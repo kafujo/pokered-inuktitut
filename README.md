@@ -9,6 +9,10 @@ To do:
 - have girl rival replace oak battle?
 - restore silph events?
 - ligature problem
+- followme script
+- day/night?
+- rain/snow
+- rebuild maps based on later gens?
 
 
 
